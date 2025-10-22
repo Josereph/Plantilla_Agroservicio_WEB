@@ -1,0 +1,92 @@
+.lead{
+    color: black;
+}
+
+.fw-bold{
+    font-weight: bold;
+    color: black;
+}
+
+.Solucion{
+    color: white;
+}
+
+
+.proveemos{
+    color: white;
+}
+
+button {
+    margin-top: 200px;
+}
+
+.card-img-top {
+    height: 300px;
+}
+
+.textonosotros{
+    margin-left: 150px;
+}
+
+.nosotros{
+    margin-left: 150px;
+}
+
+.mt-4 {
+    text-align: center;
+}
+
+.img-fluid{
+    height: 700px;
+    width: 600px;
+}
+
+
+
+
+.contenedordecarros{
+    color: white;
+}
+
+.img-grande{
+    height: 500px;
+    width: 550px;
+}
+
+.card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.15) !important;
+}
+
+
+.text-success{
+    color: black !important;
+    font-weight: bold;
+}
+
+.badbunnyalbañil{
+    height: 750px;
+    width: 550px;
+}
+
+
+
+.input-animate {
+    transition: all 0.3s ease;
+    border: 2px solid #e0e0e0;
+}
+
+.input-animate:focus {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(45, 80, 22, 0.2);
+    border-color: #2d5016;
+}
+
+
+.btn-animate {
+    transition: all 0.3s ease;
+}
